@@ -5,4 +5,4 @@
 
 
 ### 📱 My App
-- 🎱 MyBilliardsClub [[앱스토어](https://apps.apple.com/kr/app/mybilliardsclub/id1665672785)]
+- 🎱 MyBilliardsClub [[앱스토어](https://apps.apple.com/kr/app/mybilliardsclub/id1665672785)][[노션](https://thoughtful-sphynx-bd7.notion.site/My-Billiards-Club-54f0dae93df04298a8a26ae3d7a3ffd4)]
